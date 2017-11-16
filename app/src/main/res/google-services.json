@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "306101729666",
+    "project_id": "firebase-careerpundit"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306101729666:android:f47ba7ae6d5a96c2",
+        "android_client_info": {
+          "package_name": "inducesmile.com.CareerPundit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306101729666-81n4ohhgao8bcp0ekbp2bmh5ln7ukk6m.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "306101729666-jr5lvgtl813lqobgnq7jb7h72ste51gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inducesmile.com.CareerPundit",
+            "certificate_hash": "6ecda94c7c7825998efef95ed687a69c7b17de50"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLHXJKyt1rORzMlbTnjON-J60fe5yAv8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

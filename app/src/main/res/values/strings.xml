@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Career Pundit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="logo_desc">App logo</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_interest_test_main">InterestTestMainActivity</string>
+    <string name="description"><p style="text-align:center">\n\t\t\t\t\t\t\t<b>What is it?</b></p>\n\n<p>Career Pundit, this app is specially designed to guide the youth and help them find out their stream of interest</p>\n
+    \n<p style="text-align:center">\t\t\t\t\t\t<b>How it works?</b></p>\n\n<p>In Career Pundit, all you have to do is take three simple tests. Depending on your choices,our accurately reseached algorithm gives you a list of occupations.</p></string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_interest_option">InterestOption</string>
+    <string name="title_activity_interest_main">InterestMainActivity</string>
+
+
+</resources>

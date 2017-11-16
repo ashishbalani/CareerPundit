@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="inducesmile.com.CareerPundit">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher1"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".LoginRegister.Login"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".InterestTestMainActivity"
+            android:label="@string/title_activity_interest_test_main" />
+        <activity
+            android:name=".Navigation.MainActivity"
+            android:label="Main" />
+        <activity android:name=".LoginRegister.Register" />
+        <activity
+            android:name=".InterestOption"
+            android:label="@string/title_activity_interest_option" />
+        <activity
+            android:name=".InterestMainActivity"
+            android:label="@string/title_activity_interest_main"></activity>
+    </application>
+
+</manifest>
